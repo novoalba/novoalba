@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @novoalba</h1>
+<h1 align="center">Hi 👋, I'm Alba</h1>
 
 - 🌱 I’m currently learning **Express and MongoDB.**
 
